@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Trong1234567890?theme=dark&font=source%20code%20pro&ext=heatmap)
+leetcard.jacoblin.cool
 <!--
 **kinhtrong/kinhtrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
