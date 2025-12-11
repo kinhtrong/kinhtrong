@@ -1,9 +1,9 @@
 ## 👋 About me 
--I am a first-year student at UET - VNU - K70
--Lê Hữu Trọng - CN1 - IT2 - K70 - UET
--MSV: 25020418
--Currently learning Python
-- I like to read novel especially chinese novel
+ -I am a first-year student at UET - VNU - K70
+ -Lê Hữu Trọng - CN1 - IT2 - K70 - UET
+ -MSV: 25020418
+ -Currently learning Python
+ - I like to read novel especially chinese novel
 
 
 
